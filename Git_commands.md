@@ -43,4 +43,16 @@
 
        ` git show -2 <file name>` (to check the last 2 versions of a file)
 
+7. How to create and use a link between local and remote repository
+   
+   - Create a link ('bridge')
+     
+     `git remote add <name4link> <ssh>`
+     
+     **obs.:** name4 link is usually the same name as my repositories, but can be anything I like. It is just a name for the link that is being created.
+   
+   - Send things from local to your remote repository
+     
+     `git push`
+
 
