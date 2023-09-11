@@ -14,4 +14,8 @@
    
    P.s.: Meaninful msg: Why, How, Limitations, Effects
 
+4. How to check in what conceptual areas my files are
+   
+   `git status`
 
+        P.s.: Uncommited, Unstaged, Untracked files
