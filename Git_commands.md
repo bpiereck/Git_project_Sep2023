@@ -25,4 +25,22 @@
 
         P.s.: Uncommited, Unstaged, Untracked files
 
+5. Hot to get the history:
+   
+   `git log `
+   
+   `git log -n <no>`
+   
+   `git log --abbrev-commit`
+   
+   `git log ---help`
+
+6. How to compare versions of the same file:
+
+        `git diff <commit ID> <commit ID>`
+
+        `git show <commit ID> <commit ID>`
+
+       ` git show -2 <file name>` (to check the last 2 versions of a file)
+
 
