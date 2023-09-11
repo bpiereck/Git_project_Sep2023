@@ -13,3 +13,7 @@
 3. Local repository:  The repository where you keep your snapshots. It is found inthe `.git` folder. In my computer - locally
 
 P.s.: To check in what conceptual area my files are I can use `git status`.
+
+
+
+Testing what happens if I dont use -m to commit.
