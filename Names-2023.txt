@@ -1,4 +1,5 @@
 Names: Git ept 2023
-Bruna Pierce
-James Collier
+Bruna Piereck
+James Collier 
+Emma Bonné
 Gert Van Peer
