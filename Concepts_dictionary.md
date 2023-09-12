@@ -28,6 +28,6 @@ It pops up an editor to force me to write a msg, with the optioin of making a lo
 
 **I'M GETTING VERY CONFUSED WITH GOING BACK AND FORTH IN ALL OF THE BRANCHS, PLEASE HELP ME!!!!!!!!!!**
 
-
-
-New option is to do whatever I want!
+James, don't mess it up!
+NO!! DONT DELETE!!
+Bruna, please do not mess it 
