@@ -26,6 +26,6 @@ Testing what happens if I dont use -m to commit:
 
 It pops up an editor to force me to write a msg, with the optioin of making a long description instead of just a title.
 
-
-
 **I'M GETTING VERY CONFUSED WITH GOING BACK AND FORTH IN ALL OF THE BRANCHS, PLEASE HELP ME!!!!!!!!!!**
+
+Bruna, please do not mess it up
