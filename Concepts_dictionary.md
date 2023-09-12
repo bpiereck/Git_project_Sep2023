@@ -20,12 +20,12 @@
 
 P.s.: To check in what conceptual area my files are I can use `git status`.
 
-
-
 4. Remote repository: Online repository  - works as a back up of your local repository. This is most probably a cloud-like kind of repository. In this case it is represented by GitHub. 
-
-
 
 Testing what happens if I dont use -m to commit:
 
 It pops up an editor to force me to write a msg, with the optioin of making a long description instead of just a title.
+
+
+
+**I'M GETTING VERY CONFUSED WITH GOING BACK AND FORTH IN ALL OF THE BRANCHS, PLEASE HELP ME!!!!!!!!!!**
