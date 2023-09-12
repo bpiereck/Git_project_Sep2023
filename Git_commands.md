@@ -54,9 +54,16 @@
    - Send things from local to your remote repository
      
      `git push`
-     
+
 8. How to bring changes from the remote to the local reposiory:
       `git pull`
-
+   
    obs.: examples of whento use - when your local is not sync with the remote. If i`m collaborating or if i change something directly in the remote.
 
+9. Banchs
+   
+   Creating: `git branch <name new branch>`
+   
+   Moving inside the new branch: `git checkout <name new branch>`
+   
+   Checking for new branchs I need to pull: `git fetch`
