@@ -1,3 +1,7 @@
+# Most Important Concepts
+
+1. James needs to "git" good at git ;) 
+
 # My 1st Git projet
 
 - Git repository: Is single collection of documents where you want to track modificiations. Offline.
