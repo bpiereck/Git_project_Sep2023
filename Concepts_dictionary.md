@@ -31,3 +31,8 @@ It pops up an editor to force me to write a msg, with the optioin of making a lo
 
 
 James, don't mess it up!
+
+Bruna, please do not mess it up
+
+
+New option is to do whatever I want!
