@@ -30,4 +30,4 @@ It pops up an editor to force me to write a msg, with the optioin of making a lo
 
 James, don't mess it up!
 NO!! DONT DELETE!!
-Bruna, please do not mess it 
+Bruna, please do not mess it!
